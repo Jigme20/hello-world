@@ -2,4 +2,4 @@
 testing
 Hello world,
 
-A sudent or data science here. 
+A sudent of data science here. 
